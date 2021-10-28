@@ -1,0 +1,7 @@
+dash
+dash-html-components
+dash-core-components
+pandas
+numpy
+scikit-learn==0.22.2.post1
+vaderSentiment
