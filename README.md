@@ -15,7 +15,7 @@ https://hub.docker.com/repository/docker/ngayliard/movie-review-dash-image
 
 Here is how to use it.
 
-1. Download Docker Desktop for your OS
+1. Download Docker Desktop for your OS (Make sure to increase memory settings in Docker settings to 4+ GB)
 
 2. Run this code from terminal
 
